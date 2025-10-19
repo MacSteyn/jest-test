@@ -1,0 +1,33 @@
+{
+  "name": "testing-node-api",
+  "version": "1.0.0",
+  "description": "Testing NodeJS API with Jest and Supertest",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MacSteyn/Cybersecurity-Intern-Task.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Jest",
+    "supertest",
+    "API"
+  ],
+  "author": "Author",
+  "license": "ISC",
+  "bugs": {
+    "url": "http://"
+  },
+  "homepage": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "supertest": "^6.1.3"
+  }
+}
